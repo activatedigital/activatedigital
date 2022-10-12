@@ -20,3 +20,5 @@
 </div>
 
 # We're A Digital Marketing Agency That Helps Brands Win With Technology And Strategy.
+
+### We are always hiring talented, passionate people to [join our team](https://www.activatedigital.co.uk/careers/) 🙌.
